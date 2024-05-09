@@ -374,6 +374,6 @@ $(function () {
 	$("#projectSection").load("projectSection.html");
 	$("#clientSection").load("clientSection.html");
 	$("#contactSection").load("contactSection.html");
-	
+	$("#headerSection").load("headerSection.html");
 	
 });
