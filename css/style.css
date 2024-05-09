@@ -823,6 +823,11 @@ textarea#comment.massage-bt::placeholder {
     padding-top: 10px;
 }
 
+.map_img{
+    width:100px;
+    height:100px;
+}
+
 .social_icon {
     width: 15%;
     margin: 0 auto;
