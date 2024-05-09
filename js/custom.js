@@ -368,5 +368,12 @@ $(function () {
         interval: 5000
      });
 
-	$("#footerContent").load("footer.html"); 
+	$("#footerSection").load("footer.html"); 
+	$("#aboutSection").load("aboutSection.html");
+	$("#servicesSection").load("servicesSection.html");
+	$("#projectSection").load("projectSection.html");
+	$("#clientSection").load("clientSection.html");
+	$("#contactSection").load("contactSection.html");
+	
+	
 });
