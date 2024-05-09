@@ -368,5 +368,5 @@ $(function () {
         interval: 5000
      });
 
-
+	$("#footerContent").load("footer.html"); 
 });
