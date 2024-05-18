@@ -176,6 +176,9 @@
     }
     .toggle_menu {
         left: 60px;
+        display: block;
+        position: relative;
+        left: 125px;
     }
     .building_text {
         font-size: 60px;
@@ -245,7 +248,6 @@
         width: 96%;
     }
     .addres_text {
-        width: 12%;
         font-size: 30px;
     }
     .map_text {
@@ -330,6 +332,10 @@
         display: none;
     }
     .toggle_menu {
+        display: block;
+        /* top: -15px; */
+        position: relative;
+        left: 125px;
         left: 460px;
     }
     .construction_text {
@@ -426,7 +432,6 @@
         width: 94%;
     }
     .addres_text {
-        width: 15%;
         font-size: 30px;
     }
     .social_icon {
@@ -505,6 +510,9 @@
     .toggle_menu {
         top: -57px;
         left: 460px;
+        display: block;
+        position: relative;
+        left: 125px;
     }
     .round {
         display: none;
@@ -612,7 +620,6 @@
         width: 100%;
     }
     .addres_text {
-        width: 20%;
         font-size: 30px;
     }
     .map_text {
@@ -738,9 +745,10 @@
         display: none;
     }
     .toggle_menu {
-        top: -68px;
+        top: -50px;
         position: relative;
-        left: 240px;
+        left: 280px;
+        display: block;
     }
     .menu_text {
         height: 0px;
@@ -845,7 +853,6 @@
         width: 100%;
     }
     .addres_text {
-        width: 35%;
         font-size: 30px;
     }
     .map_text {

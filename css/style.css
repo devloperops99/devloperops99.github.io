@@ -215,9 +215,9 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
     padding-bottom: 0px;
 }
+
 
 .header_section {
     width: 100%;
@@ -303,7 +303,7 @@ button {
 }
 
 .toggle_menu {
-    top: -15px;
+    display: none;
     position: relative;
     left: 125px;
 }
@@ -414,7 +414,6 @@ button {
     width: 100%;
     float: left;
     background-color: #000;
-    margin-top: 70px;
 }
 
 .about_taital {
@@ -508,8 +507,7 @@ button {
     background-image: url(../images/img-4.png);
     height: auto;
     background-size: 100%;
-    margin-top: 70px;
-    padding-bottom: 80px;
+    padding-bottom:10px;
     background-repeat: no-repeat;
 }
 
@@ -522,7 +520,7 @@ button {
 }
 
 .lorem_ipsum_text {
-    width: 61%;
+    text-align: justify;
     float: left;
     color: #fffcf4;
     font-size: 18px;
@@ -794,9 +792,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .addres_text {
-    width: 10%;
     margin: 0 auto;
-    text-align: center;
     font-size: 30px;
     color: #fcf8f9;
     border-bottom: 1px solid #ffffff;
@@ -847,7 +843,7 @@ textarea#comment.massage-bt::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #0a0807;
 }
 
 .copyright_text {
