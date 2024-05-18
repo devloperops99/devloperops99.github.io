@@ -131,6 +131,12 @@ ol {
     list-style: none;
 }
 
+.fact_text li {
+    list-style: square;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
 p {
     margin: 20px;
     font-weight: 300;
