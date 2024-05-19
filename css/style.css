@@ -356,7 +356,7 @@ button {
 .building_text {
     width: 100%;
     float: left;
-    font-size: 90px;
+    font-size: 20px;
     color: #ffffff;
     font-weight: bold;
 }
@@ -379,7 +379,7 @@ button {
     background-color: transparent;
     height: 50px;
     font-weight: bold;
-    margin-top: 40px;
+    margin: 5px;
     text-align: center;
     padding-top: 12px;
 }
@@ -964,3 +964,14 @@ a {
     text-decoration: none;
     outline: none !important;
 }
+
+.btn-primary {
+    background-color: #e29b10
+}
+
+.btn-primary:hover {
+    background-color: #060504
+}
+.btn-large{padding:11px 19px;font-size:17.5px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
+.pull-right{float:right;}
+.pull-left{float:left;}
