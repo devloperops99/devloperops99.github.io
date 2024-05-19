@@ -316,7 +316,7 @@ button {
 
 .logo {
     position: relative;
-    left: -83px;
+    
 }
 
 .round {
@@ -683,7 +683,7 @@ button {
 }
 
 .contact_bg {
-    width: 82%;
+    width: 64%;
     float: right;
 }
 
