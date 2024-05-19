@@ -367,13 +367,5 @@ $(function () {
      $('#blogCarousel').carousel({
         interval: 5000
      });
-
-	$("#footerSection").load("footer.html"); 
-	$("#aboutSection").load("aboutSection.html");
-	$("#servicesSection").load("servicesSection.html");
-	$("#projectSection").load("projectSection.html");
-	$("#clientSection").load("clientSection.html");
-	$("#contactSection").load("contactSection.html");
-	$("#headerSection").load("headerSection.html");
 	
 });
