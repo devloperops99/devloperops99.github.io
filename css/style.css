@@ -525,6 +525,7 @@ button {
     font-size: 40px;
     color: #fffcf4;
     font-weight: bold;
+    padding-top: 20px;
 }
 
 .lorem_ipsum_text {
@@ -578,6 +579,8 @@ button {
     color: #0b0e13;
     border-bottom: 1px solid #e05306;
     text-align: center;
+    padding-top: 20px;
+}
 }
 
 .seemore_bt a {
