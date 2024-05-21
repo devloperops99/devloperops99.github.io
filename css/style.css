@@ -810,7 +810,7 @@ textarea#comment.massage-bt::placeholder {
 .map_addres {
     width: 100%;
     float: left;
-    padding-top: 50px;
+    padding-top: 100px;
     padding-bottom: 50px;
 }
 
@@ -820,6 +820,7 @@ textarea#comment.massage-bt::placeholder {
     font-size: 20px;
     color: #fffcf4;
     display: flex;
+    line-height: normal;
 }
 
 .map_icon {
