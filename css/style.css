@@ -135,6 +135,7 @@ ol {
     list-style: square;
     margin-left: 10px;
     padding-left: 10px;
+    text-align: left;
 }
 
 p {
@@ -442,6 +443,7 @@ button {
     font-size: 16px;
     color: #ffffff;
     margin-left: 0px;
+    text-align: justify;
 }
 
 .about_bt a {
